@@ -17,7 +17,7 @@
 **Project Details**
 1. **Topic and Data Source**
 - **Topic: Analys Air Quality in HCMc Feb 23, 2021 – Jun 21, 2022**.
-- Data Source: [data.mendeley.com]([https://danso.org/the-gioi/](https://data.mendeley.com/datasets/pk6tzrjks8/1))
+- Data Source: [data.mendeley.com](https://data.mendeley.com/datasets/pk6tzrjks8/1)
 
 2. **what have done in this project?**
 - Analysis: Descriptive statistics, Simple data analysis, Regression analysis, interpretation.
@@ -25,7 +25,7 @@
 - Visualize And Meaning.
 - Dashboard.
 
-4. **To Solve Problems**
+3. **To Solve Problems**
 - Monitor air quality.
 - Assessment of the impact of air pollution on human health.
 - Provide solutions to limit the negative effects of air pollution.
