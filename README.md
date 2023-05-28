@@ -16,10 +16,13 @@
 
 **Project Details**
 1. **Topic and Data Source**
-- **Topic: Analys Air Quality in HCMc Feb 23, 2021 – Jun 21, 2022**.
+- Topic: Analys Air Quality in HCMc Feb 23, 2021 – Jun 21, 2022.
 - Data Source: [data.mendeley.com](https://data.mendeley.com/datasets/pk6tzrjks8/1)
 
-2. **what have done in this project?**
+2.  **Dashboard**
+- Our Product: [Dashboard Ho Chi Minh City Air Quality](https://public.tableau.com/views/Dashboard_project_16844971465840/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+4.  **what have done in this project?**
 - Analysis: Descriptive statistics, Simple data analysis, Regression analysis, interpretation.
 - PM2.5 Forecast by LSTM.
 - Visualize And Meaning.
